@@ -1,0 +1,6 @@
+home;trang chu
+page;trang
+remote;dieu khien tu xa
+you;ban
+me;toi
+hello;xin chao
